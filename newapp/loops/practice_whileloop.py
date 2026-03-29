@@ -98,13 +98,13 @@
 
 #=====ex14=======
 
-user="hello"
-while user != "q":
-    user=input("enter a num or 'q' to exit: ")
-    if user == "q":
-        break
-    else:
-        if int(user) % 2 == 0:
-            print("even number")
-        else:
-            print("not a even number")
+# user="hello"
+# while user != "q":
+#     user=input("enter a num or 'q' to exit: ")
+#     if user == "q":
+#         break
+#     else:
+#         if int(user) % 2 == 0:
+#             print("even number")
+#         else:
+#             print("not a even number")
