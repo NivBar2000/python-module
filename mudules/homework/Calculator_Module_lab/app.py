@@ -9,7 +9,7 @@ user_choise=int(input('''
 1. for adding
 2. for Subtraction
 3. for multipy
-4. divide
+4. for divide
                       '''))
 
 x=int(input("enter your first number: "))
